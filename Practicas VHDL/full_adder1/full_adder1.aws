@@ -1,0 +1,14 @@
+[Version]
+Version=9.1
+[Designs]
+full_adder1=.\full_adder1.adf
+[Settings]
+Active=full_adder1
+[Expand]
+full_adder1=1
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
